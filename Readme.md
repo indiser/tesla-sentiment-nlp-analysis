@@ -111,8 +111,8 @@ pip package manager
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/tesla-sentiment-analysis.git
-cd tesla-sentiment-analysis
+git clone https://github.com/indiser/tesla-sentiment-nlp-analysis.git
+cd tesla-sentiment-nlp-analysis
 ```
 
 2. **Create virtual environment (recommended):**
